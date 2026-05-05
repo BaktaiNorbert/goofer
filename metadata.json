@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+    "Id": "spritepanel",
+    "Name": "Sprite Panel",
+    "Description": "Panel sprite overlay",
+    "Version": "1.0",
+    "License": "MIT",
+    "Icon": "face-smile",
+    "Authors": [
+      { "Name": "Szarka" }
+    ]
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "KPluginVersion": "1",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "X-Plasma-API": "declarativeappletscript",
+  "X-Plasma-MainScript": "ui/main.qml"
+}
